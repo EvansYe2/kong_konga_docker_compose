@@ -1,6 +1,6 @@
 kong+konga+docker-compose
 
-> 有部分 [海外工作机会](https://hirelala.com/) 推荐 ，有兴趣的朋友可以看看。
+
 
 
 <details>
@@ -18,10 +18,10 @@ kong+konga+docker-compose
 
 
 
-## 1.本地安装docker
+>  1.本地安装docker
 
 
-## 2.快速使用
-1. 参考example.env，生成本地.env文件
-2. 运行start.sh即可
+>  2.快速使用
+2.1. 参考example.env，生成本地.env文件
+2.2 运行start.sh即可
 
